@@ -1,4 +1,4 @@
-const cakes = [
+export const cakes = [
     {
         flavor: 'Vanilla',
         size: '6" cake',
@@ -36,4 +36,5 @@ const cakes = [
     }
 ]
 
-export default cakes
+
+export const flavors = ['Black Forest', 'Earl Grey', 'Pink Champagne', 'Raspberry Cardamon Rose', 'Vanilla' ]
